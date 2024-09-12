@@ -1,7 +1,6 @@
  # 딜리메이트
 
-![Cinemacloud Image](./images/mainImage.png)
-[시네마클라우드](https://github.com/juseungpark97/FinalProject)
+![스크린샷 2024-07-18 140236](https://github.com/user-attachments/assets/af17caf4-fa1c-4e8f-85f0-cbc1e44e72a9)
 
 **개발 기간**: 2024.06 ~ 2024.07
 
